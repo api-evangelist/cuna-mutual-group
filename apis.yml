@@ -31,6 +31,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trustage
   - type: Website
     url: https://www.trustage.com
   - type: Legacy Website
