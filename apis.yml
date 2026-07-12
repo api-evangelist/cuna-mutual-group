@@ -31,6 +31,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/cuna-mutual-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/trustage
   - type: Website
