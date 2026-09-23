@@ -1,7 +1,9 @@
 ---
 title: CUNA Mutual Co-Leads $50 Million Investment in Zest AI
 url: https://www.cutimes.com/2022/11/03/cuna-mutual-co-leads-50-million-investment-in-zest-ai/
-date: '2026-05-25'
+published: '2022-11-03'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"CUNA Mutual Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

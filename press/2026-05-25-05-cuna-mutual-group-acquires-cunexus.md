@@ -1,7 +1,9 @@
 ---
 title: CUNA Mutual Group acquires CuNexus
 url: https://www.americanbanker.com/creditunions/news/cuna-mutual-group-acquires-cunexus
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CUNA Mutual Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
