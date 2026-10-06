@@ -59,13 +59,15 @@ tags_raw:
   - Retirement
   - Financial-Services
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - url: https://www.trustage.com/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/cuna-mutual-group-domain-security.yml
   - type: LinkedIn
